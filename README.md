@@ -1,130 +1,241 @@
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ (OPTIONAL)
-📝 License
-📖 [<h3><b>Portfolio: setup and mobile first</b></h3>]
-This is a Portfolio: setup and mobile first project and in this project I have to use only Html, css and linters file.
+<a name="readme-top"></a>
 
-[Portfolio: setup and mobile first]
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-🛠 Built With
+Modify this file to match your project and remove sections that don't apply.
 
-# Index.html
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
-# Style.css
+OPTIONAL SECTIONS:
+- FAQ
 
-I have use html and css in this project because it's required for this project.
+After you're finished please remove all the comments and instructions!
+-->
 
-Client
-N/A
-Server
-Github Server
-Database
-N/A
-Key Features
+<!-- TABLE OF CONTENTS -->
 
-# Linters
+# 📗 Table of Contents
 
-Describe between 1-3 key features of the application.
-The linters is the program that resolved the issues in the projects.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements
+- [📝 License](#license)
 
-[index.html]
-[style.css]
-[linter.yml]
-(back to top)
+<!-- PROJECT DESCRIPTION -->
 
-🚀 Live Demo
+# 📖 Portfolio-setup-and-mobilee-first <a name="about-project"></a>
 
-Live Demo Link
-(git@github.com:asadmisrani/portfolio-setup-and-mobile-first.git)
+This Porfolio is a compedium of my projects as Ii continue scaling in web development skills at Mmicroverse. Ii tis a work-in-progress which will be updated overtime.
 
-💻 Getting Started
+## 🛠 Built With <a name="built-with"></a>
 
-- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct ([GitHub flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md)).
-- Make sure that you documented your work.
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://html.com/">Html</a></li>
+    <li><a href="">CSS</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[Nice background image]**
+- **[Beautifull Icons]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
-Prerequisites
-In order to run this project you need: (git@github.com:asadmisrani/portfolio-setup-and-mobile-first.git)
+### Prerequisites
 
-Setup
-Clone this repository to your desired folder: (git@github.com:asadmisrani/portfolio-setup-and-mobile-first.git)
+In order to run this project you need:
 
-Install
-Install this project with: github repository.
+<!--
+Example command:
 
-(back to top)
+```sh
+ gem install rails
+```
+ -->
 
-👥 Authors
-Mention all of the collaborators of this project.
+### Setup
 
-👤 Author1
+Clone this repository to your desired folder:
 
-- GitHub: [@asadmisrani](https://github.com/asadmisrani)
-- Twitter: [@lizalilia1](https://twitter.com/lizalilia1)
-- LinkedIn: [Asad Shareef](https://www.linkedin.com/in/asad-shareef-b73665233/)
+<!--
+Example commands:
 
-(back to top)
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
 
-🔭 Future Features
-Describe 1 - 3 features you will add to the project.
+### Install
 
-[Html]
-[CSS]
-[Linters]
-(back to top)
+Install this project with:
 
-🤝 Contributing
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Asad Shareef**
+
+- GitHub: [@githubhandle](https://github.com/asadmisrani)
+- Twitter: [@twitterhandle](https://twitter.com/lizaliliafb1)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/asadshareef)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Work Section]**
+- [ ] **[About Me]**
+- [ ] **[Contact Me]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/asadmisrani/portfolio-setup-and-mobile-first/issues).
+Feel free to check the [issues page](../../issues/).
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⭐️ Show your support
-Write a message to encourage readers to support your project
+<!-- SUPPORT -->
 
-If you like this project you should give me a star.
+## ⭐️ Show your support <a name="support"></a>
 
-(back to top)
+If you like this project Please give thumbs up.
 
-🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-I would like to thank Microverse for the opportunity.
+<!-- ACKNOWLEDGEMENTS -->
 
-(back to top)
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-❓ FAQ (OPTIONAL)
-Add at least 2 questions new developers would ask when they decide to use your project.
+I would like to thank to Microverse.
 
-[Question_1]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[Answer_1]
-[Question_2]
+<!-- FAQ (optional) -->
 
-[Answer_2]
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-📝 License
-This project is MIT licensed.
+<!-- LICENSE -->
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+Copyright (c) 2023 Asad Shareef
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
